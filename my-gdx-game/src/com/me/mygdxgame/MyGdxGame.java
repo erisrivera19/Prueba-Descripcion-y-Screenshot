@@ -92,6 +92,7 @@ public class MyGdxGame implements ApplicationListener {
 		Gdx.input.setInputProcessor(s);
 
 		Bienvenida ib= new Bienvenida();
+		Pausa ib= new 
 		s.addActor(ib);
 		
 	}
